@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyb3r-anarch&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cyb3r-anarch&theme=dark&hide_border=true" width="400">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=cyb3r-anarch&theme=dark&hide_border=true" width="400"> -->
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
@@ -26,5 +26,5 @@
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-  </a>
+  </a> -->
 </p>
